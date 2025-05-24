@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Nolhan Dupalan
 
-<!--
-**IAMTHEROOTx/IAMTHEROOTx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en cybersécurité à l’école 2600 (Montigny-le-Bretonneux), je me spécialise dans l’administration systèmes, la sécurité offensive/défensive et la gestion des risques.  
+💻 Mon parcours est guidé par la pratique : j’ai construit un home lab complet pour simuler des incidents, analyser des logs, configurer un pare-feu pfSense, déployer un honeypot et développer des malwares pédagogiques en Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+
+- 🔭 Je travaille actuellement sur un **home lab de cyberdéfense**, avec simulation d’incidents, corrélation via MITRE ATT&CK et visualisation sur dashboards Elastic.
+- 🌱 J’apprends en ce moment **EBIOS RM**, **ISO 27001**, et le **durcissement des systèmes**.
+- 👯 Je cherche à collaborer sur des projets open source liés à la **détection d’intrusion**, aux **environnements SOC**, ou aux **CTF** (Web et Reverse).
+- 📫 Contact : nolhan.dupalan@ecole2600.com  
+- 📍 Localisation : Île-de-France, France  
+- 🌐 [Mon blog cybersécurité](https://iamtherootx.github.io/IAMTHEROOT---Blog)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nolhan-dupalan/) | [GitHub](https://github.com/IAMTHEROOTx) | [Root-Me](https://www.root-me.org/IAMTHEROOT)
+
+---
+
+## 🧰 Compétences clés
+
+- **Réseaux & Systèmes** : Linux, Windows Server, Active Directory, pfSense, VPN, VLAN  
+- **Sécurité offensive** : Python, XSS, SQLi, reverse shell, malwares simulés  
+- **Détection & Analyse** : Sysmon, Elastic, honeypot, MITRE ATT&CK  
+- **Gouvernance & conformité** : ISO 27001, PSSI, RGPD (en cours)  
+- **Outils** : Wireshark, Nessus, OpenVAS, Snort, Burp Suite, Splunk  
+
+---
+
+## 🧠 Auto-formation & projets
+
+Je complète ma formation grâce à des plateformes comme :  
+- 🔒 [Root-Me](https://www.root-me.org/IAMTHEROOT)  
+- 🛠️ TryHackMe  
+- 🧪 Hack The Box  
+- 🌐 PortSwigger Academy
+
+J’y développe des exploits, réalise des tests d’intrusion Web, du reverse engineering, et participe à des challenges techniques pour progresser constamment.
+
+---
+
+Merci d’avoir consulté mon profil ! N’hésitez pas à me contacter pour discuter cybersécurité, systèmes ou projets collaboratifs 🚀
