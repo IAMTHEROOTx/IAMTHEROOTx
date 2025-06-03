@@ -30,10 +30,10 @@
 ## 🧠 Auto-formation & projets
 
 Je complète ma formation grâce à des plateformes comme :  
-- 🔒 Root-Me
-- 🛠️ TryHackMe  
-- 🧪 Hack The Box  
-- 🌐 PortSwigger Academy
+- Root-Me
+- TryHackMe  
+- Hack The Box  
+- PortSwigger Academy
 
 J’y développe des exploits, réalise des tests d’intrusion Web, du reverse engineering, et participe à des challenges techniques pour progresser constamment.
 
