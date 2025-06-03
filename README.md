@@ -1,7 +1,7 @@
 # 👋 Salut, moi c’est Nolhan Dupalan
 
 🎓 Étudiant en cybersécurité à l’école 2600 (Montigny-le-Bretonneux), je me spécialise dans l’administration systèmes et réseau, la sécurité offensive/défensive et la gestion des risques.  
-💻 Mon parcours est guidé par la pratique : j’ai développé un home lab complet pour simuler des incidents, analyser des logs, configurer un pare-feu pfSense, déployer un honeypot et développer des malwares pédagogiques en Python.
+💻 Mon parcours est guidé par la pratique : j’ai développé un home lab physique complet pour simuler des incidents, analyser des logs, configurer un pare-feu pfSense, déployer un honeypot et développer des malwares pédagogiques en Python.
 
 ---
 
