@@ -12,7 +12,6 @@
 - 👯 Je cherche à collaborer sur des projets open source liés à la **détection d’intrusion**, aux **environnements SOC**, ou aux **CTF** (Web et Reverse).
 - 📫 Contact : nolhan.dupalan@ecole2600.com  
 - 📍 Localisation : Île-de-France, France  
-- 🌐 [Mon blog cybersécurité](https://iamtherootx.github.io/IAMTHEROOT---Blog)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nolhan-dupalan/) | [GitHub](https://github.com/IAMTHEROOTx) | [Root-Me](https://www.root-me.org/IAMTHEROOT)
 
 ---
